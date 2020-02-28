@@ -1,6 +1,6 @@
 {
   "name": "abhilash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hello it's me Abhilash L R",
   "main": "index.js",
   "author": "Abhilash L R",
@@ -13,7 +13,7 @@
     "url": "https://github.com/abhilashlr/abhilashlr/issues"
   },
   "bin": {
-    "abhilash": "./index.js"
+    "abhilash": "./bin/abhilashlr.js"
   },
   "homepage": "https://github.com/abhilashlr/abhilashlr#readme",
   "scripts": {
